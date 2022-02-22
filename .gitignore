@@ -1,3 +1,24 @@
+# vs code
+.vscode
+
+*.bin
+
+# eclipse
+build/
+.classpath
+.project
+.settings
+.worksheet
+bin/
+.cache
+
+# intellij idea
+*.log
+*.iml
+*.ipr
+*.iws
+.idea
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
